@@ -1,4 +1,4 @@
-### Olá! Eu sou o Filipe Cruz 👨🏾‍💻
+### Olá! Eu sou o Filipe 👨🏾‍💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ulipevs/profilecard/?igsh=MWRhZ2VjY25ya3Y2aw==)
 
@@ -11,4 +11,3 @@
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 </div><br/>
 
-Desenvolvedor apaixonado por código limpo, aprendizado contínuo e resolução de problemas criativos.
